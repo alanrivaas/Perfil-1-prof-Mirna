@@ -1,0 +1,20 @@
+*{
+    background-color: rgb(0, 0, 0);
+}
+
+.Emprendedores {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Emprendedor {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    color: rgb(230, 234, 240);
+    width: 50%;
+    position: center;
+    left: 50px;
+    text-align: center;
+}
+
