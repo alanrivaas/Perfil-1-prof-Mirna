@@ -1,11 +1,15 @@
 *{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(210, 214, 214);
 }
 
 .Emprendedores {
     font-family: Arial, Helvetica, sans-serif;
-
-p{
+    color: black;
+    width: 50%;
+    text-align: center;
+    
+}
+.p{
     color: rgb(230, 234, 240);
     width: 50%;
     position: center;
@@ -13,3 +17,40 @@ p{
     text-align: center;
 }
 
+.emprendedor{
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+.Henry{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.Emprendimiento1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center
+    
+}
+.Mark {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.Mark2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.Cualfue {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.Evan {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
