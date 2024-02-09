@@ -6,7 +6,7 @@
     font-family: Arial, Helvetica, sans-serif;
     color: black;
     width: 50%;
-    text-align: center;
+    text-align: justify;
     
 }
 .p{
@@ -14,13 +14,13 @@
     width: 50%;
     position: center;
     left: 50px;
-    text-align: center;
+    text-align: justify;
 }
 
 .emprendedor{
 
     font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
+    text-align: justify;
 
 }
 
@@ -32,25 +32,81 @@
 
 .Emprendimiento1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: center
+    text-align: justify
     
 }
 .Mark {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: center;
+    text-align: justify;
 }
 
 .Mark2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: center;
+    text-align: justify;
 }
 
 .Cualfue {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: center;
+    text-align: justify;
 }
 
 .Evan {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: center;
+    text-align: justify;
 }
+
+.cfue {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+.danielk {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+.biodaniel {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+.Emprendimiento4 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+.dank {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+.Lee {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+ .leebio {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+
+ }
+
+ .HistoriaSamsung {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+ }
+
+ .reedh {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+ }
+
+ .reedbio {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+ }
+
+ .netflix {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+ }
+ 
