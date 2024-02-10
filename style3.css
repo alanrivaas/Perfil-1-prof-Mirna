@@ -2,50 +2,36 @@
     background-color: rgb(210, 214, 214);
 }
 
-.Sab {
+.Top {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: justify;
 }
 
-.emp1 {
+.Addepto {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+.empx {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     color: blue;
 }
 
-.primer {
+.Azilen {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: justify;
 }
 
-.emp2 {
+.bots {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: justify;
 }
 
-.algitech {
+.cubix {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: justify;
-}
 
-.bortex {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: justify;
-}
-
-.emp3 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: justify;
-}
-
-.Profis {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: justify;
-}
-
-.Rocar {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: justify;
 }
 
 header {
@@ -53,10 +39,9 @@ header {
     background-color: rgb(210, 214, 214);
     position: fixed;
     top: 0;
-
 }
 
-.emp12 {
+.Emp11 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     color: blue;
